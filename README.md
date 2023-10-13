@@ -1,0 +1,1 @@
+This is a basic website created for my IT371 Web Development class. It is crude and lovely at the same time.

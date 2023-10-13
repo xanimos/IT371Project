@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <symbol id="person" viewBox="0 0 10 19" width="10" height="19">
+        <circle cx="4.99999" cy="3.96425" r="3.57143"/>
+        <circle cx="5" cy="13.6072" r="5"/>
+        <rect y="13.25" width="10" height="5.35714"/>
+    </symbol>
+</svg>
