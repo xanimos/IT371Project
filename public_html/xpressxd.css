@@ -326,7 +326,9 @@ h1:after {
 .flex-container {
     display: flex;
 }
-
+.flex-center {
+    align-items: center;
+}
 .flex-column {
     flex-direction: column;
 }
